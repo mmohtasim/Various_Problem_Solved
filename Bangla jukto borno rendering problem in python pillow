@@ -1,0 +1,2 @@
+#install libraqm
+pacman -S libraqm
